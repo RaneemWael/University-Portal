@@ -1,5 +1,5 @@
 # University-Portal
-A university website/portal coded using JavaScript and implemented in VSCode with Node.js.
+A university website/portal coded using JavaScript and implemented in VSCode with Node.js, MongoDB and React.
 
 ## Description:
 
