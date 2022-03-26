@@ -20,6 +20,6 @@ Front end of the portal includes implementing fast and interactive user interfac
 3. Bcrypt/Bcryptjs for any hashing related logic.
 
 4. JsonWebToken for implementing the appropriate authentication/authorization functionalities. Tokens have to be sent in the request headers, under \auth-token" field.
-  - Note that proper data validation, authentication and authorization must be done for all routes in this milestone.
+   - Note that proper data validation, authentication and authorization must be done for all routes in this milestone.
 
 5. React.
